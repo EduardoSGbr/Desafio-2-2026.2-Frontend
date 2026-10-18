@@ -23,4 +23,4 @@ Se desejar rodar o projeto na sua máquina local, siga estes passos:
 
 1. Faça o download deste repositório clicando em `Code` > `Download ZIP`, ou clone usando o Git:
    ```bash
-  git clone [https://github.com/EduardoSGbr/Desafio-2-2026.2-Frontend.git](https://github.com/EduardoSGbr/Desafio-2-2026.2-Frontend.git)
+git clone https://github.com/EduardoSGbr/Desafio-2-2026.2-Frontend.git
