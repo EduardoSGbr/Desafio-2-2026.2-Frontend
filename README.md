@@ -1,48 +1,26 @@
-# Desafio-2-2026.1-Frontend
+# Desafio Front-End - Processo Trainee EngNet 🚀
 
-O desafio consiste em reproduzir uma Landing Page a partir de um design no Figma, [link](https://www.figma.com/design/OhgjHVenrfKh9WDukfdyRn/EngNet_Figma?node-id=106-136&t=MP9be8DDc5q0dWz6-1). Você deverá realizar a inspeção técnica dos elementos e desenvolver uma página "Pixel Perfect" (o mais fiel possível ao layout original).
-O que você vai praticar:
+Este repositório contém a entrega do Desafio de Front-End do Processo Trainee da EngNet. O objetivo do projeto foi transformar um design profissional feito no Figma em uma Landing Page real, funcional e responsiva.
 
-   - Inspeção Técnica: Identificar cores (Hex/RGB), tipografia, espaçamentos e bordas.
+🔗 **[Acesse a Landing Page aqui](https://eduardosgbr.github.io/Desafio-2-2026.2-Frontend/)**
 
-   - Estilização Moderna: Domínio de Tailwind CSS para um desenvolvimento ágil.
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** (Estruturação semântica)
+- **Tailwind CSS** (Estilização via CDN, cores e fontes customizadas)
+- **JavaScript** (Interatividade do menu mobile)
+- **Figma** (Inspeção de design e exportação de *assets*)
 
-   - Responsividade: Garantir que a página seja impecável em Desktop, Tablet e Mobile.
+## ✨ Funcionalidades e Requisitos Cumpridos
+- ✔️ Fidelidade ao layout do Figma (Cores, Tipografia Montserrat, Espaçamentos).
+- ✔️ Totalmente responsivo (Mobile, Tablet e Desktop).
+- ✔️ Imagens e Ícones vetoriais (.svg) exportados e aplicados.
+- ✔️ Links de contato 100% funcionais (Redirecionamento para WhatsApp, E-mail e Google Maps).
+- ✔️ Menu Hamburguer interativo para dispositivos móveis.
 
-   - Clean Code: Organização, indentação e separação de responsabilidades.
+## 🚀 Como executar o projeto localmente
 
-## 🛠️ Tecnologias Exigidas
+Se desejar rodar o projeto na sua máquina local, siga estes passos:
 
-Para este desafio, você deve utilizar obrigatoriamente:
-
-  - HTML5 (Semântico)
-
-   - Tailwind CSS (Configurado via CDN ou CLI)
-
-   - JavaScript (Em arquivo separado, caso haja interações)
-
-## 📋 Requisitos da Entrega
-
-Para que sua entrega seja validada, o projeto deve conter:
-
-  -  Fidelidade Visual: Respeito absoluto às escolhas do designer no Figma. (dica: Procure ícones em sites especializados como [esse](https://www.flaticon.com/br/))
-
-   - Responsividade: Adaptação fluida para diferentes tamanhos de tela.
-
-  -  Links Funcionais: Integrações de e-mail, Google Maps e WhatsApp devem estar operantes. (dica: leia [esse artigo](https://faq.whatsapp.com/5913398998672934) para criar o link para o whatsapp) 
-
-  -  GitHub Pages: O projeto deve estar publicado e acessível via link público.
-
-  -  Organização: Código legível e repositório bem estruturado.
-
-## 🚀 Como Entregar
-
-  -  Fork: Faça um fork deste repositório para a sua conta pessoal.
-
-  -  Desenvolvimento: Codifique sua solução seguindo o design do Figma disponibilizado.
-
-  -  Deploy: Ative o GitHub Pages nas configurações do seu repositório.
-
-  -  Release: Crie uma Release no GitHub contendo a versão final do código.
-
-  -  Google Classroom: Envie o link do seu repositório + Link do GitHub Pages + Arquivo ZIP da Release.
+1. Faça o download deste repositório clicando em `Code` > `Download ZIP`, ou clone usando o Git:
+   ```bash
+   git clone [https://github.com/SeuUsuario/Desafio-2-2026.2-Frontend.git](https://github.com/SeuUsuario/Desafio-2-2026.2-Frontend.git)
